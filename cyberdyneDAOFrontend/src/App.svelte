@@ -1,6 +1,6 @@
 <script lang="ts">
-  import CyberdyneEnhancer from './lib/enhancer';
-  import Footer from './lib/Footer.svelte';
+  import CyberdyneEnhancer from './lib/utils/enhancer';
+  import Footer from './lib/components/Footer.svelte';
   import { onMount } from 'svelte';
   import './app.css';
 

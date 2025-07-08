@@ -83,3 +83,5 @@ MIT License. Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 - 🧵 Twitter: [@CyberdyneDAO](https://twitter.com/CyberdyneDAO)
 - 📬 Contato: `contact@cyberdynedao.org`
 
+## Referencias
+* [Aragon OSx Subgraph](https://github.com/aragon/osx-commons/tree/cc6fa03306bfa5227e7e815e3944f3f1a66771db/subgraph)
