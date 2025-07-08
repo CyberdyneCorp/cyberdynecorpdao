@@ -1,6 +1,7 @@
 <script lang="ts">
   import CyberdyneEnhancer from './lib/utils/enhancer';
   import Footer from './lib/components/Footer.svelte';
+  import Marketplace from './lib/components/Marketplace.svelte';
   import { onMount } from 'svelte';
   import './app.css';
 
@@ -121,6 +122,10 @@
     <div class="audio-bar"></div>
     <div class="audio-bar"></div>
   </div>
+  <!-- Marketplace Section -->
+  <section id="marketplace" class="marketplace-section">
+    <Marketplace />
+  </section>
 
   <Footer />
 </main>
